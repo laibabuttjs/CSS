@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ul{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    gap: 40px;
+    font-size: 25px;
+    list-style: none;
+}
+.navbar{
+    background-color:rgb(92, 89, 89);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px;
+}
+.content{
+    text-align: center;
+    padding: 200px;
+}
